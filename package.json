@@ -1,0 +1,25 @@
+{
+  "name": "ajs_hometask_1-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "core-js": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raptor-vrn/ajs_hometask_1-babel.git"
+  },
+  "author": "raptor-vrn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raptor-vrn/ajs_hometask_1-babel/issues"
+  },
+  "homepage": "https://github.com/raptor-vrn/ajs_hometask_1-babel#readme"
+}
